@@ -1,0 +1,1 @@
+<?php header("Location: funciones/vistas/loginView.php"); ?>
